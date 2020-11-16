@@ -1,0 +1,14 @@
+p{
+    opacity:0;
+    transition: all ease-in 0.5s;
+}
+
+.visible{
+    opacity:1;
+    transition: all ease-in 0.5s;
+}
+
+.unvisible{
+    opacity:0;
+    transition:all ease-in 0.5s;
+}
